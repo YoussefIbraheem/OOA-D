@@ -1,1 +1,1 @@
- 
+The file `board/README.md` is empty, so there is no code to document. If you add content to the file, I can assist with documenting it.
