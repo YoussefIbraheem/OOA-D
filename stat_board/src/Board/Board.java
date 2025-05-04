@@ -52,7 +52,7 @@ public class Board {
                 if (i == (int) yCor && j == (int) xCor) {
                     System.out.print("X "); // Mark the current position with 'X'
                 } else {
-                    System.out.print(". "); // Empty space
+                    System.out.print("° "); // Empty space
                 }
             }
             System.out.println();
